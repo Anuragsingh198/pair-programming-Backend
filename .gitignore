@@ -43,3 +43,10 @@ ENV/
 .DS_Store
 Thumbs.db
 
+# Large media files
+*.mp4
+*.mov
+*.avi
+*.mkv
+documents/demo.mp4
+
